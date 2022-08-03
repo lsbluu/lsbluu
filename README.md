@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://c.tenor.com/1Q3RFCavq-wAAAAC/add-ta.gif https://c.tenor.com/q2nM7sFrdgYAAAAC/naruto-shippuuden.gif" align="center" style="width: 100%" />  
+<img src="https://c.tenor.com/1Q3RFCavq-wAAAAC/add-ta.gif" align="center" style="width: 100%" />  
 </div>  
-  
 
 ### <div align="center">Olá, Shinobis!
 Lucas, aqui! pai de uma menina e estudante em Desenvolvimento Web.</div>  
@@ -81,8 +80,11 @@ Lucas, aqui! pai de uma menina e estudante em Desenvolvimento Web.</div>
 <br/>  
 
 
-## Recent Blog Posts  
-  
+## 
+  <div align="center">
+<img src=" https://c.tenor.com/q2nM7sFrdgYAAAAC/naruto-shippuuden.gif
+" align="center" style="width: 100%" />  
+</div>  
 
 <br/>  
 
