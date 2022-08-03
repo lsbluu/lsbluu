@@ -81,13 +81,10 @@ Lucas, aqui! pai de uma menina e estudante em Desenvolvimento Web.</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lsbluu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
 
 <br/>  
 
@@ -112,4 +109,3 @@ Lucas, aqui! pai de uma menina e estudante em Desenvolvimento Web.</div>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
