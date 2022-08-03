@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://c.tenor.com/B69GWg786LoAAAAd/naruto-naruto-shippuden.gif" align="center" style="width: 100%" />
-  
+<img src="https://c.tenor.com/1Q3RFCavq-wAAAAC/add-ta.gif" align="center" style="width: 100%" />  
 </div>  
   
 
