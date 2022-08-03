@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://i.gifer.com/QZBK.gif" align="center" style="width: 100%" />
-<img src="![image](https://user-images.githubusercontent.com/32242594/182498920-c8779a04-2cf3-4d44-a616-26ab17897f98.png)" width="50%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/32242594/182498920-c8779a04-2cf3-4d44-a616-26ab17897f98.png" width="50%" height="50%"/>
 
 </div>  
   
