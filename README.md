@@ -97,15 +97,4 @@ Lucas, aqui! pai de uma menina e estudante em Desenvolvimento Web.</div>
 </div>  
   
 
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
 ----
