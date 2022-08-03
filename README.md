@@ -82,8 +82,7 @@ Lucas, aqui! pai de uma menina e estudante em Desenvolvimento Web.</div>
 
 ## 
   <div align="center">
-<img src=" https://c.tenor.com/q2nM7sFrdgYAAAAC/naruto-shippuuden.gif
-" align="center" style="width: 100%" />  
+<img src="./naruto-shippuuden.gif" align="center" style="width: 100%" />  
 </div>  
 
 <br/>  
