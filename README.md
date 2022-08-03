@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://c.tenor.com/1Q3RFCavq-wAAAAC/add-ta.gif" align="center" style="width: 100%" />  
+<img src="./GIF-2-Naruto-Run.gif" align="center" style="width: 100%" />  
 </div>  
 
 ### <div align="center">Olá, Shinobis!
