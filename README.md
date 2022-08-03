@@ -1,5 +1,7 @@
 <div align="center">
 <img src="https://i.gifer.com/QZBK.gif" align="center" style="width: 100%" />
+<img src="https://i.gifer.com/QZBK.gif" width="50%" height="50%"/>
+
 </div>  
   
 
